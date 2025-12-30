@@ -1,1 +1,26 @@
 
+# Heart Disease Analysis Dashboard 🫀
+
+## 📌 Project Overview
+This Power BI dashboard provides a data-driven analysis of cardiovascular health across a diverse patient population. It identifies key risk factors, demographic trends, and health indicators that contribute to heart disease, offering a visual summary for healthcare professionals or researchers.
+
+## 📊 Key Findings & Insights
+* **Patient Demographics:** The analysis covers a comprehensive dataset of patients, segmented by age and gender, to identify the most vulnerable groups.
+* **Primary Risk Factors:** High cholesterol levels and elevated blood pressure are identified as the leading indicators for cardiac events.
+* **Chest Pain Correlation:** Visual correlations show how different types of chest pain (Asymptomatic vs. Non-anginal) relate to the presence of heart disease.
+* **Exercise & Heart Rate:** The data highlights the relationship between maximum heart rate achieved during exercise and the likelihood of heart disease.
+* **Diagnostic Indicators:** Metrics like the "ST depression induced by exercise" and "Number of major vessels (colored by fluoroscopy)" are used to predict high-risk cases.
+
+## 🛠️ Technical Implementation
+* **Power BI Desktop:** Used for data cleaning, transformation, and interactive report building.
+* **DAX (Data Analysis Expressions):** Utilized to create complex measures for heart disease prevalence rates and average health metrics.
+* **Data Visualization:**
+    * **Distribution Charts:** For age and gender analysis.
+    * **Correlation Plots:** To show the link between blood pressure, cholesterol, and age.
+    * **Health KPIs:** Real-time snapshots of average heart rates and risk percentages.
+
+## 📈 Visualizations Included
+1. **Health Summary KPIs:** Instant overview of average blood pressure and cholesterol levels.
+2. **Gender-Based Risk Analysis:** A breakdown of how heart disease prevalence differs between males and females.
+3. **Risk Factor Heatmaps:** Visualizing the intersection of age and major health markers.
+4. **Exercise Analysis:** Graphs tracking the impact of physical exertion on cardiac performance indicators.
