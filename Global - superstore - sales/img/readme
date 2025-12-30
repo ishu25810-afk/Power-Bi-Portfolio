@@ -1,1 +1,24 @@
 
+# Global Super Sale Analysis Dashboard 🌎
+
+## 📌 Project Overview
+This comprehensive Power BI dashboard analyzes a global retail dataset to evaluate sales performance, profitability, and operational efficiency. It provides a macro-to-micro view of the business, from high-level global regional performance to specific product-level returns and shipping costs.
+
+## 📊 Key Findings & Insights
+* **Revenue & Profitability:** High-level tracking of Total Sales and Profit across different global markets (Africa, APAC, Canada, EMEA, EU, LATAM, and US).
+***Shipping & Logistics:** Analysis of shipping costs by order priority and ship mode (Same Day, First Class, Second Class, Standard Class) to optimize delivery expenses[cite: 262, 266].
+* **Product Returns:** Identification of high-return products and categories, allowing for quality control and better inventory management[cite: 252].
+* **Category Performance:** Segmented analysis of Technology, Furniture, and Office Supplies to determine which product lines drive the most growth.
+* **Customer Segmentation:** Breakdown of sales by segment (Consumer, Corporate, Home Office) to understand purchasing behavior.
+
+## 🛠️ Technical Implementation
+* **Power BI Desktop:** Developed a multi-page interactive report with cross-filtering capabilities.
+* **Data Modeling:** Established a star schema connecting sales, product, and geographic tables[cite: 269].
+* **Custom Visuals & Icons:** Integrated specialized icons for Shipping, Profit, Returns, and Quantity to enhance user experience and readability[cite: 246, 254, 259, 266].
+* **DAX Formulas:** Utilized DAX for Year-over-Year (YoY) growth, Profit Margin percentages, and total shipping efficiency.
+
+## 📈 Visualizations Included
+1. **Global Map:** Geographic distribution of sales and profit density.
+2. **Profit/Return Metrics:** Visual comparison between successful orders and returned items[cite: 252, 254].
+3. **Shipping Efficiency Bar Charts:** Analyzing cost vs. speed for various shipping methods[cite: 266].
+4. **Product Category Treemap:** A hierarchical view of the most profitable product sub-categories.
